@@ -59,7 +59,7 @@ void RedBotMotors::brake()
 }
 
 // drive() starts both motors. It figures out whether the motors should go
-//  forward or revers, then calls the appropriate individual functions. Note
+//  forward or reverse, then calls the appropriate individual functions. Note
 //  the use of a 16-bit integer for the speed input; an 8-bit integer doesn't
 //  have the range to reach full speed. The calls to the actual drive functions
 //  are only 8-bit, since we only have 8-bit PWM.
