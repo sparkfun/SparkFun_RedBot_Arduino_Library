@@ -22,6 +22,8 @@ Documentation
 * **[Product Repository](https://github.com/sparkfun/RedBot)** - Main repository (including hardware files) for the RedBot.
 * **[Assembly Guide](https://learn.sparkfun.com/tutorials/assembly-guide-for-redbot-with-shadow-chassis)** - Basic hookup guide for the RedBot.
 * **[Experiment Guide](https://learn.sparkfun.com/tutorials/experiment-guide-for-redbot-with-shadow-chassis)** - Experiment guide for the RedBot.
+* **[Wireless RC Robot with Arduino and XBees Project Guide](https://learn.sparkfun.com/tutorials/wireless-rc-robot-with-arduino-and-xbees)** - Project guide to make the RedBot wireless.
+* **[Project Repo](https://github.com/sparkfun/Wireless-RC-Robot-with-Arduino-and-XBee)** - Code repo used to make the RedBot wireless.
 
 Products that use this Library 
 ---------------------------------
